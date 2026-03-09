@@ -16,5 +16,6 @@ I.2 Text recognition: CRNN
   3. Decoding: Sử dụng lớp CTC để dự đoán chuỗi ký tự đầu ra mà không cần căn chỉnh thời gian chính xác
  
 <img width="493" height="391" alt="{7DF36148-41BA-434C-9F6E-984379F70BBA}" src="https://github.com/user-attachments/assets/0d5bdd5b-1ae4-4dd6-86ed-30786bb17f06" />
+
 Hình 1: Kiến trúc CRNN với luồng xử lý từ trích xuất đặc trưng đến giải mã ký tự
 
